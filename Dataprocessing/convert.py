@@ -6,7 +6,7 @@ from pdf2image import convert_from_path
 
 
 folder_path = "Emotional_disorder"
-output_csv = "EEG_Waveform_Data3.csv"
+output_csv = "Final_Data.csv"
 poppler_path = r"C:\poppler-24.08.0\Library\bin"  
 
 
